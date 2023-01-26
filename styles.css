@@ -32,7 +32,7 @@ p{
     font-family: 'inter' , sans-serif;
 }
 body{
-    background-color: rgb(255, 0, 0);
+    background-color: black;
 }
 header{
     display: flex;
